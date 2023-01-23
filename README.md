@@ -1,2 +1,4 @@
 # Customize-Dashboard
-Personalizando o Dashboard, e mudando o idioma
+Personalizando o Painel e mudando o idioma.
+
+Customize the Dashboard and changing the language.
